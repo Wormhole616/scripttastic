@@ -41,6 +41,17 @@ https://scriptastic-bc6835a88150.herokuapp.com/
 
 ## Screenshots
 
+![2](https://github.com/Wormhole616/scripttastic/assets/144727575/3e8188dd-99fe-4ae1-8e74-0f5fe1d72264)
+![4](https://github.com/Wormhole616/scripttastic/assets/144727575/6b066914-fbcd-4aca-9ffd-c57850205c3e)
+![3](https://github.com/Wormhole616/scripttastic/assets/144727575/06cdc7f7-8566-4f38-af06-12dafbd465fd)
+
+https://github.com/Wormhole616/scripttastic/assets/144727575/a77de148-2595-4372-98f8-553993f7b2fd
+
+
+
+https://github.com/Wormhole616/scripttastic/assets/144727575/4b110408-aab2-4993-84a1-e778d2812203
+
+
 
 ## Technologies Used
 
@@ -58,7 +69,8 @@ This application uses Webpack (HTML-Webpack-Plugin, Babel, and CSS Loader), Node
 
 Simply, go to the the link and click in the install icon to be used offline.
 
-install here
+
+![1](https://github.com/Wormhole616/scripttastic/assets/144727575/5b138cc1-d339-42c8-86dd-c26ab6af1773)
 
 
 
